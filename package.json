@@ -2,9 +2,9 @@
   "name": "@biaohuang2002/github_actions_start",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/biaohuang2002/my-other-repo.git"
+    "url": "https://github.com/biaohuang2002/my-other-repo"
   },
-  "version": "0.1.3",
+  "version": "0.1.4",
   "private": false,
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
