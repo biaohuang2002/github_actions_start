@@ -2,7 +2,7 @@
   "name": "@biaohuang2002/github_actions_start",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/biaohuang2012/my-other-repo.git"
+    "url": "git+https://github.com/biaohuang2002/my-other-repo.git"
   },
   "version": "0.1.12",
   "private": false,
