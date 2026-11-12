@@ -1,7 +1,10 @@
 {
   "name": "@biaohuang2002/github_actions_start",
-  "repository": "git+https://github.com/biaohuang2002/my-other-repo.git",
-  "version": "0.1.7",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biaohuang2002/my-other-repo.git"
+  },
+  "version": "0.1.8",
   "private": false,
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
