@@ -4,7 +4,7 @@
     "type": "git",
     "url": "git+https://github.com/biaohuang2012/my-other-repo.git"
   },
-  "version": "0.1.11",
+  "version": "0.1.12",
   "private": false,
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
